@@ -7,7 +7,7 @@
 /*nav bar font change*/ 
 .navbar-brand{
 	color:#C0392B ; 
-	font-family:  'Lobster', cursive;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 /* main "softdev" title and coloring for it*/
 h1 {
