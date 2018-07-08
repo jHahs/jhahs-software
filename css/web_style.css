@@ -11,7 +11,11 @@
 /*nav bar font change*/ 
 .navbar-brand{
 	color:#C0392B ; 
+<<<<<<< HEAD
 	font-family:  'Josefin Sans', sans-serif;
+=======
+	font-family: 'IBM Plex Sans', sans-serif;
+>>>>>>> 039d7fb0a666da2e9de602b12cbbbaaf4aba705e
 }
 /* main "softdev" title and coloring for it*/
 h1 {
