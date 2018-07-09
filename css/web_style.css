@@ -10,12 +10,10 @@
 }
 /*nav bar font change*/ 
 .navbar-brand{
-	color:#C0392B ; 
-<<<<<<< HEAD
+	color:#C0392B ;
 	font-family:  'Josefin Sans', sans-serif;
-=======
 	font-family: 'IBM Plex Sans', sans-serif;
->>>>>>> 039d7fb0a666da2e9de602b12cbbbaaf4aba705e
+
 }
 /* main "softdev" title and coloring for it*/
 h1 {
@@ -72,6 +70,22 @@ h3 {
 #git {
 	
 	 position: right;
+}
+
+#circle{
+border: 4px solid black;
+    background-image: url(../img/MVIMG_20180511_171801.png);
+    height: 250px;
+    border-radius:50%;
+    width: 250px;
+    position: middle;
+    margin:auto;
+
+}
+
+.ab-border{
+	border-style: solid;
+	border-color: black;
 }
 /* start of attributes */
 .container2 {
